@@ -5,12 +5,17 @@ Diametro primitivo (Dp): 88.000 mm
 Passo (Pr): 25.133 mm
 Diametro externo (DE): 104.000 mm
 Diametro interno (DI): 70.672 mm
+Diametro base (Db): 82.693 mm
 Altura (h): 17.328 mm
 Espessura do dente (S): 12.566 mm
 Distancia entre os flancos (C): 112.000 mm
 Espessura da engrenagem (b): de 48.000 mm até 80.000 mm
-Cabeca (c): 8.000
-Fundo (f): 9.328
+Altura da cabeca/dente (c): 8.000 mm
+Altura do pe do dente: 9.328 mm
+Folga do pe do dente (e): 1.336 mm
+Raio do pe do dente (Rp): 2.247 mm
+Raio maior do dente (r): 19.200 mm
+Raio menor do dente (r1): 6.640 mm
 =======================================================================
 
 Engrenagem 2 - Dentes: 17
@@ -20,9 +25,18 @@ Diametro primitivo (Dp): 136.000 mm
 Passo (Pr): 25.133 mm
 Diametro externo (DE): 152.000 mm
 Diametro interno (DI): 118.672 mm
+Diametro base (Db): 127.798 mm
 Altura (h): 17.328 mm
 Espessura do dente (S): 12.566 mm
 Distancia entre os flancos (C): 112.000 mm
 Espessura da engrenagem (b): de 48.000 mm até 80.000 mm
-Cabeca (c): 8.000
-Fundo (f): 9.328
+Altura da cabeca/dente (c): 8.000 mm
+Altura do pe do dente: 9.328 mm
+Folga do pe do dente (e): 1.336 mm
+Raio do pe do dente (Rp): 2.247 mm
+Raio maior do dente (r): 24.160 mm
+Raio menor do dente (r1): 12.640 mm
+=======================================================================
+
+Distancia entre centros: 112.000 mm
+Folga entre o Diam ext. Z1 e o Diam int Z2: -14.672 mm
