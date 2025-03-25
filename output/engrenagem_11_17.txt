@@ -1,0 +1,28 @@
+Engrenagem 1 - Dentes: 11
+Modulo: 8
+Angulo de pressão: 20.00°
+Diametro primitivo (Dp): 88.000 mm
+Passo (Pr): 25.133 mm
+Diametro externo (DE): 104.000 mm
+Diametro interno (DI): 70.672 mm
+Altura (h): 17.328 mm
+Espessura do dente (S): 12.566 mm
+Distancia entre os flancos (C): 112.000 mm
+Espessura da engrenagem (b): de 48.000 mm até 80.000 mm
+Cabeca (c): 8.000
+Fundo (f): 9.328
+=======================================================================
+
+Engrenagem 2 - Dentes: 17
+Modulo: 8
+Angulo de pressão: 20.00°
+Diametro primitivo (Dp): 136.000 mm
+Passo (Pr): 25.133 mm
+Diametro externo (DE): 152.000 mm
+Diametro interno (DI): 118.672 mm
+Altura (h): 17.328 mm
+Espessura do dente (S): 12.566 mm
+Distancia entre os flancos (C): 112.000 mm
+Espessura da engrenagem (b): de 48.000 mm até 80.000 mm
+Cabeca (c): 8.000
+Fundo (f): 9.328
